@@ -1,6 +1,15 @@
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+José+Filho;I'm+26+years+old;I+from+Itu,+SP;I+study+systems+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
+# Oie devs 👋
+
+
+Sou José Filho, um entusiasta do desenvolvimento de software com 26 anos de idade, residindo na encantadora cidade de Itu, situada no interior de São Paulo. Tenho um particular interesse no desenvolvimento de backend, utilizando à linguagem de programação Python. Com a minha dedicação contínua ao aprendizado e crescimento nesse campo, estou sempre pronto para transformar ideias complexas em soluções de software funcionais e eficazes.
+
+
+## Mais sobre mim
+
+<img align="right" width="300" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31" />
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josecsfilho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="José Filho github stats" /> 
@@ -37,4 +46,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{josecsfilho}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
