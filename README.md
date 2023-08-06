@@ -1,15 +1,12 @@
+# ***Oie devs*** 👋
 
 
+***Sou José Filho, um entusiasta do desenvolvimento de software com 26 anos de idade, residindo na encantadora cidade de Itu, situada no interior de São Paulo. Tenho um particular interesse no desenvolvimento de backend, utilizando à linguagem de programação Python. Com a minha dedicação contínua ao aprendizado e crescimento nesse campo, estou sempre pronto para transformar ideias complexas em soluções de software funcionais e eficazes.***
 
-# Oie devs 👋
-
-
-Sou José Filho, um entusiasta do desenvolvimento de software com 26 anos de idade, residindo na encantadora cidade de Itu, situada no interior de São Paulo. Tenho um particular interesse no desenvolvimento de backend, utilizando à linguagem de programação Python. Com a minha dedicação contínua ao aprendizado e crescimento nesse campo, estou sempre pronto para transformar ideias complexas em soluções de software funcionais e eficazes.
-
-Estou empolgado com o futuro da minha carreira em Engenharia de Software e ansioso para contribuir e crescer ainda mais no campo.
+***Estou empolgado com o futuro da minha carreira em Engenharia de Software e ansioso para contribuir e crescer ainda mais no campo.***
 
 
-## Mais sobre mim
+## ***Mais sobre mim***
 
 <img align="right" width="300" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31" />
 
