@@ -1,7 +1,7 @@
 # ***Oie devs*** 👋
 
 
-***Sou José Filho, um entusiasta do desenvolvimento de software com 26 anos de idade, residindo na encantadora cidade de Itu, situada no interior de São Paulo. 
+***Sou José Filho, um entusiasta do desenvolvimento de software com 26 anos de idade, residindo na encantadora cidade de Itu, situada no interior de São Paulo. ***
 
 ***Estou empolgado com o futuro da minha carreira em Engenharia de Software e ansioso para contribuir e crescer ainda mais no campo.***
 
