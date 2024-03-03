@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [gestão_rh](https://github.com/josecsfilho/gestao_rh)
 
-- 👯 I’m looking to collaborate on [rsfotovoltaica](https://github.com/DaianeEstima/rsfotovoltaica)
+- 💼 I’m looking to collaborate on [rsfotovoltaica](https://github.com/DaianeEstima/rsfotovoltaica)
 
 - 👨‍💻 All of my projects are available at [https://github.com/josecsfilho](https://github.com/josecsfilho)
 
