@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Filho</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josecsfilho&label=Profile%20views&color=0e75b6&style=flat" alt="josecsfilho" /> </p>
-
-- 🔭 I’m currently working on [gestão_rh](https://github.com/josecsfilho/gestao_rh)
-
-- 👨‍💻 All of my projects are available at [https://github.com/josecsfilho](https://github.com/josecsfilho)
-
-- 📝 I regularly write articles on [https://www.josefilho.tech/](https://www.josefilho.tech/)
 
 - 📫 How to reach me **josecasilvafilho@gmail.com**
 
